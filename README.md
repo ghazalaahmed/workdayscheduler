@@ -1,5 +1,5 @@
 DESCRIPTION:
-For homwork 5 challenge, we were asked to create a simple calender that allows
+For homework 5 challenge, we were asked to create a simple calender that allows
 a user to save events for each hour of the day.
 
 User Story
