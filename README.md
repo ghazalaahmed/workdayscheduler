@@ -23,7 +23,9 @@ WHEN I refresh the page
 THEN the saved events persist
 
 DEPLOYED APPLICATION:
+https://ghazalaahmed.github.io/workdayscheduler/
 
 SCREENSHOT OF APPLICATION:
+![screeshotofworkdayscheduler](./images/screenshotworkdayscheduler.png)
 
 
